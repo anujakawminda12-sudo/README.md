@@ -9,6 +9,7 @@ This repository documents my progress through Hack The Box Labs.
 
 ### Meow
 
+Status: Completed
 https://labs.hackthebox.com/achievement/machine/2990734/394
 
 Skills Practiced:
@@ -16,3 +17,13 @@ Skills Practiced:
 - Nmap Enumeration
 - Telnet
 - Basic Linux Interaction
+
+### Fawn
+
+Status: Completed
+https://labs.hackthebox.com/achievement/machine/2990734/393
+
+Skills Practiced:
+- FTP Enumeration
+- Anonymous Login
+- File Retrieval
