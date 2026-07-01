@@ -1,17 +1,18 @@
 # README.md
-# 🏆 Certifications
+# 🏴 Hack The Box Labs Journey
 
-## Hack The Box Academy – Intro to Cyber Security (Tier 0)
+This repository documents my progress through Hack The Box Labs.
 
-![HTB Certificate](HTB Learning Process.png)
+## Starting Point - Tier 0
 
-🔗 Verify Certificate:  
-https://academy.hackthebox.com/achievement/2346424/9
+## Machine Achievements
 
----
+### Meow
 
-### 📚 Skills Gained
-- Linux Basics
-- Networking Fundamentals
-- Cybersecurity Fundamentals
-- Hands-on Lab Experience
+https://labs.hackthebox.com/achievement/machine/2990734/394
+
+Skills Practiced:
+- VPN Connection
+- Nmap Enumeration
+- Telnet
+- Basic Linux Interaction
